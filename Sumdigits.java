@@ -4,7 +4,7 @@ public class Sumdigits {
 
 	public static void main(String[] args) {
 		 
-		int number=1234;
+		int number=1235;
 		
 		int sum=0;
 		
